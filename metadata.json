@@ -1,0 +1,5 @@
+{
+  "name": "DigiPlan AI - Tích Hợp Năng Lực Số",
+  "description": "Ứng dụng hỗ trợ giáo viên tích hợp năng lực số vào kế hoạch bài dạy sử dụng Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
